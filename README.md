@@ -3,3 +3,4 @@
 ###### This repo contains:
   * factory method
   * abstract factory
+  * singleton
