@@ -4,3 +4,4 @@
   * factory method
   * abstract factory
   * singleton
+  * facade
