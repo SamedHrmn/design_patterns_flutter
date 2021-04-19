@@ -5,3 +5,4 @@
   * abstract factory
   * singleton
   * facade
+  * strategy
